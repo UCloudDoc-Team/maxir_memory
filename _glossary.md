@@ -16,12 +16,6 @@
 
 
 
-## 词汇4
-
-词汇2解释
-
-
-
 > 本条为提示，发布时请删除
 >
 > 若您的词汇表内容多、分类明确，可以结合 [tabs](https://leaishere.github.io/docs_new#tabs标签模块)、[收起展开](https://leaishere.github.io/docs_new#收起展开html语法)样式来更好的展示哦。
